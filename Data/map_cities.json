@@ -50,10 +50,10 @@
   },
   {
     "city_id": 8,
-    "city": "San Diego",
-    "state": "CA",
+    "city": "Las Vegas",
+    "state": "NV",
     "region": "West",
-    "updated_at": "2026-10-24T15:02:49.009+00:00"
+    "updated_at": "2026-10-24T20:02:49.009+00:00"
   },
   {
     "city_id": 9,
